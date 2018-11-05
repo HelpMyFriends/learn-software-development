@@ -4,4 +4,4 @@ Este repositorio tem como objetivo reunir diversos conteudos gratuitos relaciona
 
 ## Introdução
 
-[Arquitetura da Web](http://www.argonavis.com.br/cursos/web/WebDesign_1.pdf)
+[Principios de Arquitetura Web](http://www.argonavis.com.br/cursos/web/WebDesign_1.pdf)
