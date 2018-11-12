@@ -9,5 +9,5 @@ Este repositorio tem como objetivo reunir diversos conteudos gratuitos relaciona
 
 
 
-## React
+## React.js
 [Component or PureComponent](https://codeburst.io/when-to-use-component-or-purecomponent-a60cfad01a81)
