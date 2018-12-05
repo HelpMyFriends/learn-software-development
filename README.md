@@ -13,6 +13,7 @@ Este repositorio tem como objetivo reunir diversos conteudos gratuitos relaciona
 - [Shadow DOM and Virtual DOM](https://vuejsfeed.com/blog/learn-the-differences-between-shadow-dom-and-virtual-dom)
 
 ## React JS
+- [REACT PERFORMANCE](https://www.youtube.com/watch?v=Pgof13lQ7-I)
 - [Component or PureComponent](https://codeburst.io/when-to-use-component-or-purecomponent-a60cfad01a81)
 
 ## Vue JS
