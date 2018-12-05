@@ -14,6 +14,7 @@ Este repositorio tem como objetivo reunir diversos conteudos gratuitos relaciona
 
 ## React JS
 - [Component or PureComponent](https://codeburst.io/when-to-use-component-or-purecomponent-a60cfad01a81)
+- [REACT PERFORMANCE](https://www.youtube.com/watch?v=Pgof13lQ7-I)
 
 ## Vue JS
 
