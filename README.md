@@ -13,6 +13,7 @@ Este repositorio tem como objetivo reunir diversos conteudos gratuitos relaciona
 - [Shadow DOM and Virtual DOM](https://vuejsfeed.com/blog/learn-the-differences-between-shadow-dom-and-virtual-dom)
   - [Element.attachShadow()
 ](https://developer.mozilla.org/en-US/docs/Web/API/Element/attachShadow)
+  - [CustomElementRegistry.define()](https://developer.mozilla.org/en-US/docs/Web/API/CustomElementRegistry/define)
 
 ## React JS
 - [REACT PERFORMANCE](https://www.youtube.com/watch?v=Pgof13lQ7-I)
