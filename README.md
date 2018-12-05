@@ -11,6 +11,8 @@ Este repositorio tem como objetivo reunir diversos conteudos gratuitos relaciona
 ## Web Components
 - [Web Components, Web’s Dirty Secret](https://codeburst.io/web-components-webs-dirty-secret-903cc85847dd)
 - [Shadow DOM and Virtual DOM](https://vuejsfeed.com/blog/learn-the-differences-between-shadow-dom-and-virtual-dom)
+  - [Element.attachShadow()
+](https://developer.mozilla.org/en-US/docs/Web/API/Element/attachShadow)
 
 ## React JS
 - [REACT PERFORMANCE](https://www.youtube.com/watch?v=Pgof13lQ7-I)
