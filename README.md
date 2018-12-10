@@ -24,3 +24,8 @@ Este repositorio tem como objetivo reunir diversos conteudos gratuitos relaciona
 - [Lazy-loading Routes](https://alligator.io/vuejs/lazy-loading-routes/)
 - [VUE METHODS VS WATCHERS VS COMPUTED PROPERTIES](https://flaviocopes.com/vue-methods-watchers-computed-properties/)
 - [Methods, Computed, and Watchers in Vue.js](https://css-tricks.com/methods-computed-and-watchers-in-vue-js/)
+
+
+## Architectural
+- [MVVM architectural pattern](https://www.packtpub.com/mapt/book/web_development/9781786469946/2/ch02lvl1sec18/mvvm-architectural-pattern)
+- [Workbox and Progressive Web Apps](https://developers.google.com/web/tools/workbox/)
