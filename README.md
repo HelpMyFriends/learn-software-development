@@ -28,3 +28,4 @@ Este repositorio tem como objetivo reunir diversos conteudos gratuitos relaciona
 
 ## 
 - [MVVM architectural pattern](https://www.packtpub.com/mapt/book/web_development/9781786469946/2/ch02lvl1sec18/mvvm-architectural-pattern)
+- [Workbox and Progressive Web Apps](https://developers.google.com/web/tools/workbox/)
