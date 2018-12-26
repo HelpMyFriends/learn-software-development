@@ -15,11 +15,11 @@ Este repositorio tem como objetivo reunir diversos conteudos gratuitos relaciona
 ](https://developer.mozilla.org/en-US/docs/Web/API/Element/attachShadow)
   - [CustomElementRegistry.define()](https://developer.mozilla.org/en-US/docs/Web/API/CustomElementRegistry/define)
 
-## REACT JS
+## Reaact.js
 - [React Performance](https://www.youtube.com/watch?v=Pgof13lQ7-I)
 - [Component vs. PureComponent](https://codeburst.io/when-to-use-component-or-purecomponent-a60cfad01a81)
 
-## VUE JS
+## Vue.js
 
 - [Lazy-loading Routes](https://alligator.io/vuejs/lazy-loading-routes/)
 - [VUE METHODS VS WATCHERS VS COMPUTED PROPERTIES](https://flaviocopes.com/vue-methods-watchers-computed-properties/)
@@ -29,3 +29,8 @@ Este repositorio tem como objetivo reunir diversos conteudos gratuitos relaciona
 ## Architectural
 - [MVVM architectural pattern](https://www.packtpub.com/mapt/book/web_development/9781786469946/2/ch02lvl1sec18/mvvm-architectural-pattern)
 - [Workbox and Progressive Web Apps](https://developers.google.com/web/tools/workbox/)
+
+
+## Test Coverage
+
+- [Adding Test Coverage to your NodeJS app with Istanbul, TravisCI, and Codecov](https://medium.com/@erickzhao/adding-test-coverage-to-your-nodejs-app-with-codecov-istanbul-and-travisci-aa092c1e360c)
