@@ -15,11 +15,11 @@ Este repositorio tem como objetivo reunir diversos conteudos gratuitos relaciona
 ](https://developer.mozilla.org/en-US/docs/Web/API/Element/attachShadow)
   - [CustomElementRegistry.define()](https://developer.mozilla.org/en-US/docs/Web/API/CustomElementRegistry/define)
 
-## REACT JS
+## Reaact js
 - [React Performance](https://www.youtube.com/watch?v=Pgof13lQ7-I)
 - [Component vs. PureComponent](https://codeburst.io/when-to-use-component-or-purecomponent-a60cfad01a81)
 
-## VUE JS
+## Vue js
 
 - [Lazy-loading Routes](https://alligator.io/vuejs/lazy-loading-routes/)
 - [VUE METHODS VS WATCHERS VS COMPUTED PROPERTIES](https://flaviocopes.com/vue-methods-watchers-computed-properties/)
