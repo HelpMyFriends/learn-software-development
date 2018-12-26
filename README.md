@@ -37,4 +37,4 @@ Este repositorio tem como objetivo reunir diversos conteudos gratuitos relaciona
 
 
 ## PHP / Laravel
-- [Relationships (BelogsTo) 1 to N (1 f HasMany)](https://www.youtube.com/watch?v=aED6dDS1TB0)
+- [Relationships (BelogsTo) 1 to N (HasMany)](https://www.youtube.com/watch?v=aED6dDS1TB0)
