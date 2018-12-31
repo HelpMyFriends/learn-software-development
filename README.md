@@ -14,6 +14,7 @@ Este repositorio tem como objetivo reunir diversos conteudos gratuitos relaciona
   - [Element.attachShadow()
 ](https://developer.mozilla.org/en-US/docs/Web/API/Element/attachShadow)
   - [CustomElementRegistry.define()](https://developer.mozilla.org/en-US/docs/Web/API/CustomElementRegistry/define)
+  - [Workbox and Progressive Web Apps](https://developers.google.com/web/tools/workbox/)
 
 ## Reaact.js
 - [React Performance](https://www.youtube.com/watch?v=Pgof13lQ7-I)
@@ -28,8 +29,9 @@ Este repositorio tem como objetivo reunir diversos conteudos gratuitos relaciona
 
 ## Architectural
 - [MVVM architectural pattern](https://www.packtpub.com/mapt/book/web_development/9781786469946/2/ch02lvl1sec18/mvvm-architectural-pattern)
-- [Workbox and Progressive Web Apps](https://developers.google.com/web/tools/workbox/)
 
+## Design Patterns
+[Design Patterns in Java Tutorial](https://www.tutorialspoint.com/design_pattern/index.htm)
 
 ## Test Coverage
 
