@@ -1,11 +1,16 @@
 # Learn Web Software Development
 
-Este repositorio tem como objetivo reunir diversos conteudos gratuitos relacionando ao desenvolvimento de software para web 2018
+This repository aims to gather several free content related to the development of software for web 2018
 
-## Introdução
+## Introduction
 
-- [Principios de Arquitetura Web](http://www.argonavis.com.br/cursos/web/WebDesign_1.pdf)
-- [Aplicação Web | Entendendo Back-end e Front-end](https://www.youtube.com/watch?v=EEeLl-M5YmI)
+| Platform | Description |
+| ------ | ------ |
+| Ebook | [Principios de Arquitetura Web](http://www.argonavis.com.br/cursos/web/WebDesign_1.pdf) |
+| Video | Continuous Integration and Delivery |[Aplicação Web Entendendo Back-end e Front-end](https://www.youtube.com/watch?v=EEeLl-M5YmI) |
+
+
+
 
 ## Web Components
 - [Web Components - Web’s Dirty Secret](https://codeburst.io/web-components-webs-dirty-secret-903cc85847dd)
