@@ -7,7 +7,6 @@ Este repositorio tem como objetivo reunir diversos conteudos gratuitos relaciona
 - [Principios de Arquitetura Web](http://www.argonavis.com.br/cursos/web/WebDesign_1.pdf)
 - [Aplicação Web | Entendendo Back-end e Front-end](https://www.youtube.com/watch?v=EEeLl-M5YmI)
 
-
 ## Web Components
 - [Web Components - Web’s Dirty Secret](https://codeburst.io/web-components-webs-dirty-secret-903cc85847dd)
 - [Shadow DOM and Virtual DOM](https://vuejsfeed.com/blog/learn-the-differences-between-shadow-dom-and-virtual-dom)
@@ -21,11 +20,6 @@ Este repositorio tem como objetivo reunir diversos conteudos gratuitos relaciona
 
 ## Design Patterns
 [Design Patterns in Java Tutorial](https://www.tutorialspoint.com/design_pattern/index.htm)
-
-## Test Coverage
-
-- [Test Coverage to your NodeJS app with Istanbul, TravisCI, and Codecov](https://medium.com/@erickzhao/adding-test-coverage-to-your-nodejs-app-with-codecov-istanbul-and-travisci-aa092c1e360c)
-
 
 ## PHP / Laravel
 - [Relationships (BelogsTo) 1 to N (HasMany)](https://www.youtube.com/watch?v=aED6dDS1TB0)
