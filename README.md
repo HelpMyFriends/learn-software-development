@@ -7,7 +7,7 @@ This repository aims to gather several free content related to the development o
 | Platform | Description |
 | ------ | ------ |
 | Ebook | [Principios de Arquitetura Web](http://www.argonavis.com.br/cursos/web/WebDesign_1.pdf) |
-| Video | Continuous Integration and Delivery |[Aplicação Web Entendendo Back-end e Front-end](https://www.youtube.com/watch?v=EEeLl-M5YmI) 
+| Video | [Aplicação Web Entendendo Back-end e Front-end](https://www.youtube.com/watch?v=EEeLl-M5YmI) 
 
 ### Web Components
 
