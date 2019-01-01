@@ -11,5 +11,5 @@
 
 | Platform | Description |
 | ------ | ------ |
-| [React Performance](https://www.youtube.com/watch?v=Pgof13lQ7-I) | React Performance |
-| [React Performance](https://www.youtube.com/watch?v=Pgof13lQ7-I) | React Performance |
+| Deploy React Apps in less than 30 Seconds | [React Performance](https://www.netlify.com/blog/2016/07/22/deploy-react-apps-in-less-than-30-seconds/?fbclid=IwAR3Hpa-mNqfFrnRWudfJEsS46dEr-9He6XIMBF3mRm-pPB89CsxpItre4w8)  |
+
