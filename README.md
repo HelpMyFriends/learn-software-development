@@ -32,7 +32,3 @@
 | ------ | ------ |
 | Article | [Design Patterns in Java Tutorial](https://www.tutorialspoint.com/design_pattern/index.htm) |
 
-### PHP
-| Platform | Description |
-| ------ | ------ |
-| Video | [Laravel - Relationships (BelogsTo) 1 to N (HasMany)](https://www.youtube.com/watch?v=aED6dDS1TB0) |
